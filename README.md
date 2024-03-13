@@ -2,7 +2,7 @@
 
 ### Document Condenser Concept
 
-Condense text documents by removing blank spaces, paragraph spaces. Reduce the overall file size by saving the condensed text into a plain text file. Included in the plain text file is a pseudocode to remember the structure of the text in the original document. 
+Condense text documents by removing blank spaces and paragraph spaces. Reduce the overall file size by saving the condensed text into a plain text file. Included in the plain text file is a pseudocode to remember the structure of the text in the original document. 
 
 <details><summary>Example Document Structure Pseudocode</summary>
 
